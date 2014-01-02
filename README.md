@@ -1,4 +1,4 @@
-DI_example
+Dependency Injection example
 ==========
 This is a simple Dependency Injection example
 
@@ -8,6 +8,6 @@ need CRUD on Prduct
 need to include DI 
 
 
-=============
-.net MVC 5 with Unity MVC5
-=============
+
+This is a .NET MVC5 (C#) with Unity MVC5
+
